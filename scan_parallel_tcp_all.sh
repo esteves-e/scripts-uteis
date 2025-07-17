@@ -1,7 +1,7 @@
 #!/bin/bash
 
 IP_LIST="ips.txt"
-LIVE_HOSTS="hosts_ativos.txt"
+LIVE_HOSTS="hosts_ativos_all.txt"
 OUTPUT_DIR="resultados"
 mkdir -p "$OUTPUT_DIR"
 
